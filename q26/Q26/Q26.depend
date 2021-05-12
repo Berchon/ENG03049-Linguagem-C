@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1558921831 source:c:\users\luciano\desktop\enf03049 - linguagem c\q26-func.c
+
+1514140574 source:c:\users\luciano\desktop\enf03049 - linguagem c\q26\q26\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1558923905 source:c:\users\luciano\desktop\enf03049 - linguagem c\q26\q26\q26-func.c
+
+1558923597 source:c:\users\luciano\desktop\enf03049 - linguagem c\q26\q26\q26-prog.c
+	<stdio.h>
+	"Q26-func.h"
+
+1558923741 c:\users\luciano\desktop\enf03049 - linguagem c\q26\q26\q26-func.h
+
+1558923905 source:c:\users\luciano\desktop\eng03049 - linguagem c\q26\q26\q26-func.c
+
+1558923597 source:c:\users\luciano\desktop\eng03049 - linguagem c\q26\q26\q26-prog.c
+	<stdio.h>
+	"Q26-func.h"
+
+1558923741 c:\users\luciano\desktop\eng03049 - linguagem c\q26\q26\q26-func.h
+

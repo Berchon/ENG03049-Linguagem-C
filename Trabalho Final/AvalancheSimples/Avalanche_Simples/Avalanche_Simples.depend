@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1563070075 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\imprime.c
+	<stdio.h>
+	"biblio.h"
+
+1563069721 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\sorteio.c
+	<stdio.h>
+
+1563070284 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	"biblio.h"
+
+1562958971 c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\biblio.h
+
+1563072417 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\semear.c
+	<stdio.h>
+
+1562911460 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\avalanche.c
+	<stdio.h>
+
+1562732929 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\box.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	"biblio.h"
+
+1562732929 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\sombra.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	"biblio.h"
+
+1562732929 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\gotoxy.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	"biblio.h"
+
+1562819360 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\menu.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	"biblio.h"
+
+1562735065 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\settextcolor.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	"biblio.h"
+
+1563069409 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\imprimetodoterreno.c
+	<stdio.h>
+	"biblio.h"
+
+1562897204 source:c:\users\luciano\desktop\eng03049 - linguagem c\trabalho final\avalanchesimples\avalanche_simples\entradadados.c
+	<stdio.h>
+	"biblio.h"
+
